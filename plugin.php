@@ -2,7 +2,6 @@
 /**
  * Plugin Name:  WP DC Meetup "Synced Entity" Example
  * Plugin URI:   https://github.com/pewresearch/wp-dc-meetup-sep-20-2023
- * Description:  WP Crontrol enables you to view and control what's happening in the WP-Cron system.
  * Author:       Seth Rubenstein
  * Author URI:   https://sethrubenstein.info
  * Version:      1.0.0
